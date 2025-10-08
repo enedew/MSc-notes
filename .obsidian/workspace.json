@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "0c52aa05d7d26c6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "02acdd80b8e6daeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "628debe57689c416",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP64101/Tutorials/Tutorial 1 Solutions.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Tutorial 1 Solutions"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9f9d973f90dc3f34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ce41cb106b4087a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "490d37db221cbe55",
+    "type": "split",
+    "children": [
+      {
+        "id": "591552cabde72e8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "039a5e3002d9b076",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3c4f38a8b4944ab6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "82c5393f8a6ae616",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c65290e89629c6cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae3f61b5b06a7b50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "714b4bce074e80db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "2656d133342f51db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "a358f8e824866b58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "788a51edfcb2bbef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "039a5e3002d9b076",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "COMP64101/Lectures",
+    "COMP64101/Tutorials",
+    "COMP64101/Lectures/COMP_64101_Lecture_1.pdf",
+    "COMP64101/Tutorials/Tutorial 1.pdf",
+    "COMP64101/Tutorials/Tutorial 1 Solutions.pdf",
+    "COMP64101"
+  ]
+}
