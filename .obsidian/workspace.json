@@ -4,38 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "02acdd80b8e6daeb",
+        "id": "2f0be01b7162418d",
         "type": "tabs",
         "children": [
           {
-            "id": "628debe57689c416",
+            "id": "2d11272769307955",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP64101/Tutorials/Tutorial 1 Solutions.pdf"
+                "file": "COMP64101/Lectures/Lecture 1 prob and stats.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Tutorial 1 Solutions"
+              "title": "Lecture 1 prob and stats"
             }
-          }
-        ]
-      },
-      {
-        "id": "9f9d973f90dc3f34",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "8ce41cb106b4087a",
+            "id": "05085b0d463849ae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,13 +163,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "2df4929dac79fe92",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,14 +193,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "039a5e3002d9b076",
+  "active": "05085b0d463849ae",
   "lastOpenFiles": [
+    "Untitled.base",
+    "COMP64101/Lectures/Lecture 2 Statistical Inference.pdf",
+    "COMP64101/murphy book.pdf",
+    "COMP64101/Lectures/Lecture 1 prob and stats.pdf",
+    "COMP64101/book2.pdf",
+    "COMP64401/Lectures/Week2+3.pdf",
+    "COMP64101/Tutorials/Tutorial 1.pdf",
+    "COMP64401/Lectures",
+    "COMP64101/Tutorials/Tutorial 1 Solutions.pdf",
     "Welcome.md",
     "COMP64101/Lectures",
-    "COMP64101/Tutorials",
-    "COMP64101/Lectures/COMP_64101_Lecture_1.pdf",
-    "COMP64101/Tutorials/Tutorial 1.pdf",
-    "COMP64101/Tutorials/Tutorial 1 Solutions.pdf",
-    "COMP64101"
+    "COMP64101/Tutorials"
   ]
 }
